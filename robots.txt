@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://keisan-tools-lab.github.io/kurashi-keisan/sitemap-index.xml
+Sitemap: https://keisan-tools-lab.github.io/kakei-shindan/sitemap.xml
